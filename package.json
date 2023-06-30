@@ -5,6 +5,9 @@
   "main": "index.js",
   "scripts": {
     "courses": "tsx watch src/courses.ts",
+    "filter": "tsx watch src/filter.ts",
+    "search": "tsx watch src/search.ts",
+    "modules": "tsx watch src/modules.ts",
     "books": "tsx watch src/books.ts"
   },
   "keywords": [],
